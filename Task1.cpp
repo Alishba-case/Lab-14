@@ -194,4 +194,4 @@ void emergencyVehicleAssistance() {
     cin >> destination;
 
     cout << "Traffic lights along the route are set to GREEN.\n";
-}
+} hkjhkjhkjhkjhkjhkjh
